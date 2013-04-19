@@ -1,9 +1,22 @@
 h1{
-	text-align: center;
+/*	text-align: center;*/
 }
 #menu{
 	margin-top: 20px;
 }
 #main{
 	margin-top: 62px;
+}
+
+#footer {
+    background-color: #f9f9f9;
+    /*border-top: 2px solid #e5e5e5;*/
+}
+
+ul.organiza {
+    list-style-type: none;   
+}
+
+ul.organiza li {
+    display: inline;
 }

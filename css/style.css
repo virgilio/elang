@@ -2,8 +2,13 @@ h1{
 /*	text-align: center;*/
 }
 #menu{
-	margin-top: 20px;
+/*	margin-top: 20px;*/
 }
+
+#menu li {
+    line-height: 40px;
+}
+
 #main{
 	margin-top: 62px;
 }

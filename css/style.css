@@ -24,4 +24,15 @@ ul.organiza {
 
 ul.organiza li {
     display: inline;
+    margin-right: 60px;
+}
+.tit_palestrante{
+	display: block;
+	font-size: 0.9em;
+	font-weight: bold;
+	color: #444;
+}
+.tit_palestra{
+	display: block;
+	font-style: italic;
 }
